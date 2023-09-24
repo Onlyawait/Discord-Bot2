@@ -140,7 +140,7 @@ async def select_error(ctx: discord.Interaction, error):
 # 
 # 
 #     
-bot.run("MTEzMDI1NTk4MTYzMzM0NzY2NQ.GY-Mcp.IewKbIIXvdTG6-mkqtHZirDNu7LF8LvgKaV0PA")
+bot.run("your token")
 
 
 
